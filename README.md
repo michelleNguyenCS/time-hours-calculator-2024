@@ -3,7 +3,8 @@ Creator: Michelle Nguyen\
 Language: Python\
 Date of Completion: 2024-05-06
 
-Problem: I keep track of the times I spend working on things, and I often take so many breaks that I would have to calculate a bunch of times separately and add them together.\
+Problem:\
+I keep track of the times I spend working on things, and I often take so many breaks that I would have to calculate a bunch of times separately and add them together.\
 This program is meant to solve that problem for me and calculate the total time I spent working on something.
 
 Supported Commands:
